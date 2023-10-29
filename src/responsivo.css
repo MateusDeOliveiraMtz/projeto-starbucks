@@ -1,0 +1,11 @@
+@media (max-width:700px){
+
+.imgbox {
+    max-width:20vw;
+}
+.textbox { 
+    width:100%;
+    font-size: small;
+}
+
+}
